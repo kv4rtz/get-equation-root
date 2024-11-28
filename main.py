@@ -1,7 +1,7 @@
 from requirements.prettytable import PrettyTable
 from datetime import datetime
 import math
-
+# https://dropmefiles.com/vGlYU
 table = PrettyTable(['a', 'b', 'c', 'f(c)', 'f(a)', 'f(b)', 'f(a) * f (c)', 'f(b) * f(c)'], )
 table.min_width = 10
 
